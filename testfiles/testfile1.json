@@ -1,0 +1,30 @@
+[
+    {
+        "Term": "descriptoritem1",
+        "TermUI": "F0101",
+        "ConceptUI": "F0101",
+        "ReferenceUI": "F0101",
+        "ReferenceKind": "descriptor"
+    },
+    {
+        "Term": "descriptoritem2",
+        "TermUI": "F0102",
+        "ConceptUI": "F0102",
+        "ReferenceUI": "F0102",
+        "ReferenceKind": "descriptor"
+    },
+    {
+        "Term": "descriptoritem3",
+        "TermUI": "F0103",
+        "ConceptUI": "F0103",
+        "ReferenceUI": "F0103",
+        "ReferenceKind": "descriptor"
+    },
+    {
+        "Term": "descriptoritem4",
+        "TermUI": "F0104",
+        "ConceptUI": "F0104",
+        "ReferenceUI": "F0104",
+        "ReferenceKind": "descriptor"
+    }
+]

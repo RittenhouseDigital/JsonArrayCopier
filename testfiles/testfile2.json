@@ -1,0 +1,30 @@
+[
+    {
+        "Term": "supplementalitem1",
+        "TermUI": "F0201",
+        "ConceptUI": "F0201",
+        "ReferenceUI": "F0201",
+        "ReferenceKind": "supplemental"
+    },
+    {
+        "Term": "supplementalitem2",
+        "TermUI": "F0202",
+        "ConceptUI": "F0202",
+        "ReferenceUI": "F0202",
+        "ReferenceKind": "supplemental"
+    },
+    {
+        "Term": "supplementalitem3",
+        "TermUI": "F0203",
+        "ConceptUI": "F0203",
+        "ReferenceUI": "F0203",
+        "ReferenceKind": "supplemental"
+    },
+    {
+        "Term": "supplementalitem4",
+        "TermUI": "F0204",
+        "ConceptUI": "F0204",
+        "ReferenceUI": "F0204",
+        "ReferenceKind": "supplemental"
+    }
+]
