@@ -16,7 +16,9 @@ namespace JsonArrayCopier
             {
                 if (args.Length != 3)
                 {
-                    Console.WriteLine("Invalid args");
+                    Console.WriteLine("Invalid args. Use:");
+                    Console.WriteLine($"{System.Reflection.Assembly.GetExecutingAssembly().GetName().Name} [infile1] [infile2] [outfile]");
+
                     return;
                 }
                 infile1 = args[0];
