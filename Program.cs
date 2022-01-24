@@ -39,7 +39,7 @@ namespace JsonArrayCopier
             totalItems += CopyArray(infile2, writer);
             var finalFile = writer.Finish();
             var finalFileInfo = new FileInfo(finalFile);
-            Console.WriteLine($"Wrote {totalItems} items ({finalFileInfo.Length}) to {finalFile}");
+            Console.WriteLine($"Wrote {totalItems} items ({finalFileInfo.Length}bytes) to {finalFile}");
 
         }
 
